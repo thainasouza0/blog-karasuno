@@ -108,3 +108,11 @@ blockquote {
     font-style:oblique;
     text-align:center;
 }
+
+footer {
+    margin-top: 40px;
+    padding: 35px;
+    background-color: rgb(5, 2, 0);
+    color: rgb(236, 126, 36);
+    text-align:center;
+}
