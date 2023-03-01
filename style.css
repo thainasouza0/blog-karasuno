@@ -65,12 +65,26 @@ section .container {
     color:rgb(236, 126, 36);
 }
 
+.memb-style img {
+    height: 300px;
+    margin-bottom: 32px;
+}
+
+.memb-style div {
+    display:inline-flex;
+}
+
+.memb-style ul {
+    margin-left: 50px;
+}
+
 #contact {
     background-color: rgb(236, 126, 36);
     color: rgb(5, 2, 0);
 }
 
-#contact h2, #contact h3 {
+#contact h2, #contact h3, 
+#members h2 {
     margin-bottom: 18px;
 }
 
