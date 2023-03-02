@@ -54,6 +54,9 @@ section .container {
 
 .articles {
     margin-top: 18px;
+    display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 .articles img {
