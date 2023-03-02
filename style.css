@@ -127,9 +127,15 @@ blockquote {
 }
 
 footer {
-    margin-top: 40px;
+    margin-top: 100px;
     padding: 35px;
     background-color: rgb(5, 2, 0);
     color: rgb(236, 126, 36);
     text-align:center;
+}
+
+.copy-icone {
+    font-size: 30px;
+    position: relative;
+    top: 11px;
 }
