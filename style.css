@@ -120,7 +120,8 @@ header #nav-style li a {
 .contact-methods {
     display: flex;
     justify-content:space-between;
-    margin-right: 180px;
+    margin-right: 180px;    
+    margin-bottom: 150px;
 }
 
 .contact-methods input, 
@@ -153,7 +154,6 @@ blockquote {
 }
 
 footer {
-    margin-top: 100px;
     padding: 35px;
     background-color: rgb(5, 2, 0);
     color: rgb(236, 126, 36);
